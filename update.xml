@@ -7,6 +7,11 @@
 		<command>false</command>
 		<execute>false</execute>
 	</update>
+	<update>
+		<version>1.2</version>
+		<file>UPDATE2.zip</file>		
+		<html>https://aef4c59c-05fe-4d4a-9ac8-8f63c8e35e60.usrfiles.com/archives/aef4c5_69897a779fd9432e998efd2278721a14.zip</html>		
+		<command>false</command>
+		<execute>false</execute>
+	</update>
 </root>
-
-	
