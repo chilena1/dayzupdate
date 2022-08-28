@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 	<update>
-		<version>1.1</version>
-		<file>UPDATE1.zip</file>		
-		<html>https://aef4c59c-05fe-4d4a-9ac8-8f63c8e35e60.usrfiles.com/archives/aef4c5_f44707729ace4444ae49bf83b785b85d.zip</html>		
-		<command>false</command>
-		<execute>false</execute>
-	</update>
-	<update>
-		<version>1.2</version>
+		<version>1.2.1</version>
 		<file>UPDATE2.zip</file>		
-		<html>https://aef4c59c-05fe-4d4a-9ac8-8f63c8e35e60.usrfiles.com/archives/aef4c5_69897a779fd9432e998efd2278721a14.zip</html>		
+		<html>https://aef4c59c-05fe-4d4a-9ac8-8f63c8e35e60.usrfiles.com/archives/aef4c5_c35a0a337b7646af9e43723d9c734992.zip</html>		
 		<command>false</command>
 		<execute>false</execute>
 	</update>
