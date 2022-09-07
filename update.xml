@@ -35,4 +35,11 @@
 		<command>false</command>
 		<execute>false</execute>
 	</update>
+	<update>
+		<version>1.5.0</version>
+		<file>UPDATE8.zip</file>		
+		<html>https://c21203ea-cc8b-4fc3-aeda-0cccd4ff5590.usrfiles.com/archives/c21203_401fbc81d7da407a8fc3ba28cf8d36e1.zip</html>		
+		<command>false</command>
+		<execute>false</execute>
+	</update>
 </root>
