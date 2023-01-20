@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 	<update>
-		<version>1.6.0</version>
+		<version>2.0</version>
 		<file>UPDATE1.zip</file>		
 		<html>https://aef4c59c-05fe-4d4a-9ac8-8f63c8e35e60.usrfiles.com/archives/aef4c5_aff087d4589d4236b9c035bc7712f136.zip</html>		
 		<command>false</command>
