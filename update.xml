@@ -2,8 +2,8 @@
 <root>
 	<update>
 		<version>2.0</version>
-		<file>UPDATE1.zip</file>		
-		<html>https://aef4c59c-05fe-4d4a-9ac8-8f63c8e35e60.usrfiles.com/archives/aef4c5_aff087d4589d4236b9c035bc7712f136.zip</html>		
+		<file>Update1.zip</file>		
+		<html>https://c21203ea-cc8b-4fc3-aeda-0cccd4ff5590.usrfiles.com/archives/c21203_f406115767f4472a93af38099d70edb6.zip</html>		
 		<command>false</command>
 		<execute>false</execute>
 	</update>
