@@ -14,4 +14,11 @@
 		<command>false</command>
 		<execute>false</execute>
 	</update>
+	<update>
+		<version>2.4</version>
+		<file>Update4.zip</file>		
+		<html>https://c21203ea-cc8b-4fc3-aeda-0cccd4ff5590.usrfiles.com/archives/c21203_ef508b213c654b2a956465a3d958e427.zip</html>		
+		<command>false</command>
+		<execute>false</execute>
+	</update>
 </root>
