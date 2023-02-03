@@ -21,4 +21,11 @@
 		<command>false</command>
 		<execute>false</execute>
 	</update>
+	<update>
+		<version>2.5</version>
+		<file>Update5.zip</file>		
+		<html>https://c21203ea-cc8b-4fc3-aeda-0cccd4ff5590.usrfiles.com/archives/c21203_80ca4e2586cc4ba3b125306d7db95fd5.zip</html>		
+		<command>false</command>
+		<execute>false</execute>
+	</update>
 </root>
