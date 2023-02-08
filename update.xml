@@ -28,4 +28,11 @@
 		<command>false</command>
 		<execute>false</execute>
 	</update>
+	<update>
+		<version>2.6</version>
+		<file>Update6.zip</file>		
+		<html>https://aef4c59c-05fe-4d4a-9ac8-8f63c8e35e60.usrfiles.com/archives/aef4c5_fe43c55dcf3142ae9a823333e14c8676.zip</html>		
+		<command>true</command>
+		<execute>deletarlauncherold.bat</execute>
+	</update>
 </root>
