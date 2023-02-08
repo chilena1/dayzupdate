@@ -35,4 +35,11 @@
 		<command>true</command>
 		<execute>deletarlauncherold.bat</execute>
 	</update>
+	<update>
+		<version>2.7</version>
+		<file>Update7.zip</file>		
+		<html>https://aef4c59c-05fe-4d4a-9ac8-8f63c8e35e60.usrfiles.com/archives/aef4c5_f52158f481c346fea7daed1af6507e42.zip</html>		
+		<command>true</command>
+		<execute>deletarmod.bat</execute>
+	</update>
 </root>
