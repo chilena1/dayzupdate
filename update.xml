@@ -32,7 +32,7 @@
 		<version>2.6</version>
 		<file>Update6.zip</file>		
 		<html>https://aef4c59c-05fe-4d4a-9ac8-8f63c8e35e60.usrfiles.com/archives/aef4c5_e3250ac66ac0443b8ce229d1674be310.zip</html>		
-		<command>true</command>
-		<execute>deletarlauncherold.bat</execute>
+		<command>false</command>
+		<execute>false</execute>
 	</update>
 </root>
