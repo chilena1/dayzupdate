@@ -29,17 +29,10 @@
 		<execute>false</execute>
 	</update>
 	<update>
-		<version>2.6</version>
+		<version>2.8</version>
 		<file>Update6.zip</file>		
-		<html>https://aef4c59c-05fe-4d4a-9ac8-8f63c8e35e60.usrfiles.com/archives/aef4c5_fe43c55dcf3142ae9a823333e14c8676.zip</html>		
+		<html>https://aef4c59c-05fe-4d4a-9ac8-8f63c8e35e60.usrfiles.com/archives/aef4c5_b1e32e1b6ffb40b58b719e936f8197fd.zip</html>		
 		<command>true</command>
 		<execute>deletarlauncherold.bat</execute>
-	</update>
-	<update>
-		<version>2.7</version>
-		<file>Update7.zip</file>		
-		<html>https://aef4c59c-05fe-4d4a-9ac8-8f63c8e35e60.usrfiles.com/archives/aef4c5_f52158f481c346fea7daed1af6507e42.zip</html>		
-		<command>true</command>
-		<execute>deletarmod.bat</execute>
 	</update>
 </root>
