@@ -29,9 +29,9 @@
 		<execute>false</execute>
 	</update>
 	<update>
-		<version>2.8</version>
+		<version>3.0</version>
 		<file>Update6.zip</file>		
-		<html>https://aef4c59c-05fe-4d4a-9ac8-8f63c8e35e60.usrfiles.com/archives/aef4c5_b1e32e1b6ffb40b58b719e936f8197fd.zip</html>		
+		<html>https://aef4c59c-05fe-4d4a-9ac8-8f63c8e35e60.usrfiles.com/archives/aef4c5_e3250ac66ac0443b8ce229d1674be310.zip</html>		
 		<command>true</command>
 		<execute>deletarlauncherold.bat</execute>
 	</update>
