@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 	<update>
-		<version>3.0</version>
-		<file>UPDATE30.zip</file>		
+		<version>1.1</version>
+		<file>UPDATE1.zip</file>		
 		<html>https://download1591.mediafire.com/k4wp1yleifbgLlGqdZDsKk0AICRyXIZNwIS592La-4TwcKsuaWZmWDDXwkuLvhBFgRNHiVATc6gk1MurX_ODff4wOwE/kltdwxsai5ht6fl/UPDATE1.zip</html>		
 		<command>false</command>
 		<execute>false</execute>
